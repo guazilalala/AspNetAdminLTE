@@ -1,0 +1,12 @@
+D:\GitHub\Wing.AspNetAdminLTE\Wing.AspNetAdminLTE\obj\Debug\netcoreapp2.0\Wing.AspNetAdminLTE.csprojResolveAssemblyReference.cache
+D:\GitHub\Wing.AspNetAdminLTE\Wing.AspNetAdminLTE\bin\Debug\netcoreapp2.0\Wing.AspNetAdminLTE.deps.json
+D:\GitHub\Wing.AspNetAdminLTE\Wing.AspNetAdminLTE\bin\Debug\netcoreapp2.0\Wing.AspNetAdminLTE.runtimeconfig.json
+D:\GitHub\Wing.AspNetAdminLTE\Wing.AspNetAdminLTE\bin\Debug\netcoreapp2.0\Wing.AspNetAdminLTE.runtimeconfig.dev.json
+D:\GitHub\Wing.AspNetAdminLTE\Wing.AspNetAdminLTE\bin\Debug\netcoreapp2.0\Wing.AspNetAdminLTE.dll
+D:\GitHub\Wing.AspNetAdminLTE\Wing.AspNetAdminLTE\bin\Debug\netcoreapp2.0\Wing.AspNetAdminLTE.pdb
+D:\GitHub\Wing.AspNetAdminLTE\Wing.AspNetAdminLTE\obj\Debug\netcoreapp2.0\Wing.AspNetAdminLTE.csproj.CoreCompileInputs.cache
+D:\GitHub\Wing.AspNetAdminLTE\Wing.AspNetAdminLTE\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\GitHub\Wing.AspNetAdminLTE\Wing.AspNetAdminLTE\obj\Debug\netcoreapp2.0\Wing.AspNetAdminLTE.AssemblyInfoInputs.cache
+D:\GitHub\Wing.AspNetAdminLTE\Wing.AspNetAdminLTE\obj\Debug\netcoreapp2.0\Wing.AspNetAdminLTE.AssemblyInfo.cs
+D:\GitHub\Wing.AspNetAdminLTE\Wing.AspNetAdminLTE\obj\Debug\netcoreapp2.0\Wing.AspNetAdminLTE.dll
+D:\GitHub\Wing.AspNetAdminLTE\Wing.AspNetAdminLTE\obj\Debug\netcoreapp2.0\Wing.AspNetAdminLTE.pdb
